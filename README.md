@@ -1,6 +1,6 @@
 # Research report
 
-**Version 1 — 20 Oct 2026**
+**Version 2 — 26 Oct 2026**
 
 Read the report here: **https://profquoc.github.io/mar/**
 
@@ -10,4 +10,5 @@ entered. Ask the author for the password. The code and data are not included.
 
 ## Version history
 
+- **Version 2, 26 Oct 2026.** Second version.
 - **Version 1, 20 Oct 2026.** First version.
